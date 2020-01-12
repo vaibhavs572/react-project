@@ -1,0 +1,29 @@
+.planets{
+    width: 200px;
+  height: 200px;
+  border: 2px solid grey;
+  text-align: center;
+  float: left;
+  margin: 10px;
+  background-color: grey;
+    
+}
+.names{
+    align-self: top;
+    position: relative;
+    top: 100px;
+    color: blue;
+    
+}
+.residents{
+    position: relative ; 
+    top: 124px ;
+    background-color: white;
+    color: black;
+}
+.types{
+    position: relative;
+    bottom: 23px;
+    background-color: white;
+    color: black;
+}

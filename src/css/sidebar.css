@@ -1,0 +1,19 @@
+.side {
+    margin: 11px;
+    width: 205px;
+    /* background-color: #f1f1f1; */
+    position: fixed;
+    height: 100%;
+    overflow-y: hidden;
+  }
+  
+.link {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+     /* background-color: #f1f1f1; */
+  }
+   
+
+  
